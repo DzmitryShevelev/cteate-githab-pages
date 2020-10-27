@@ -10,4 +10,4 @@
    - _E-mail: byshevel@gmail.com_
 3. **Education**: _Military Academy Repгblic of Belarus_
 4. **Сourses**: _UpSkillLab_
-5. **Level of english**: _A2_
+5. **Level of english**: _A1+_
