@@ -1,0 +1,35 @@
+* {
+  margin: auto;
+  width: 1024px;
+  font-family: "Roboto", sans-serif;
+}
+.img_avatar {
+  margin: 0px 100px 30px 0px;
+  float: left;
+  width: 200px;
+}
+.location {
+  margin: 5px 0px 30px 0px;
+}
+.my_name {
+  text-transform: uppercase;
+}
+.skills {
+  float: left;
+  font-size: 20px;
+}
+.top {
+  font-size: 24px;
+}
+.contacts {
+  font-size: 20px;
+  line-height: 1.2;
+}
+footer {
+  text-align: center;
+}
+@media (max-width: 400px) {
+  * {
+    max-width: 100%;
+  }
+}
