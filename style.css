@@ -35,10 +35,8 @@ body {
     display: flex;
 }
 .navigation_link > a {
-    /* padding-left: 10px; */
     text-decoration: none;
     color:  #ffffff;
-    /* text-transform: uppercase; */
     font-family: Lato;
     font-style: normal;
     font-weight: bold;
@@ -72,13 +70,13 @@ body {
     cursor: pointer;
 }
 .arrow_left:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 .arrow_right {
     cursor: pointer;
 }
 .arrow_right:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 .services {
     background-color: #F2F2F2;
@@ -151,14 +149,6 @@ body {
     height: 114px;
     overflow: hidden;
 }
-/* .services_wrap > div {
-    display: flex;
-    flex-basis: 30%;
-    align-items: center;
-    height: 77px;
-    width: 220ex;
-    overflow: hidden;
-} */
 .icon {
     padding-top: 20px;
     padding-right: 20px;
@@ -244,18 +234,17 @@ button:hover {
     line-height: 18px;
 }
 .icon_facebook:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 .icon_google:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 .icon_twitter:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 .icon_linkedin:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
-
 @media (max-width: 1020px) {
     .phone_horizontal img {
         width: 344px;
@@ -276,7 +265,6 @@ button:hover {
         padding: 59px 41px 65px 40px;
     }
 }
-
 @media (max-width: 768px) {
     .navigation_menu {
         display: none;
